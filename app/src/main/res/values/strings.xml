@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HeatMap</string>
+    <string name="google_maps_API_key">AIzaSyDCCFOLPinZH3CIzp7D-f1d9oXLdnUfF_c</string>
+    <string name="location_required_warning">Device location is required to use HeatMap</string>
+    <string name="settings">Settings</string>
+</resources>
